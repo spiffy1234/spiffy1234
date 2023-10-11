@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  Srishti kumari.
 - 👀 I’m interested in Web developming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development.
+- 💞️ I will working on full stack development
+  
 
 <!---
 spiffy1234/spiffy1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
