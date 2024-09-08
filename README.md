@@ -1,8 +1,8 @@
  Srishti Kumari
 
-Full stack Developer | Third-Year BTech Student at BIT Mesra, Patna
+Full stack Developer | Final Year BTech Student at BIT Mesra, Patna
 
-Welcome to my GitHub profile! I am Srishti Kumari, a passionate full stack developer and a third-year BTech student at BIT Mesra, Patna. I specialize in building visually appealing and functional web applications using HTML, CSS, JavaScript, TypeScript, React-js, and Next.js.
+Welcome to my GitHub profile! I am Srishti Kumari, a passionate full stack developer and a final year BTech student at BIT Mesra, Patna. I specialize in building visually appealing and functional web applications using HTML, CSS, JavaScript, TypeScript, React-js, and Next.js.
 
 Projects
 - Netflix Clone: Developed a Netflix-like web application to enhance user interface design and functionality skills.
